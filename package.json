@@ -1,0 +1,31 @@
+{
+	"name": "xmlns",
+	"version": "1.0.0",
+	"type": "module",
+	"exports": {
+		"types": "./src/xmlns.d.ts",
+		"import": "./src/xmlns.js"
+	},
+	"files": [
+		"src"
+	],
+	"description": "Simple repository of XML namespaces",
+	"keywords": [
+		"xml",
+		"xmlns",
+		"namespace",
+		"ns",
+		"svg",
+		"mathml",
+		"ttml",
+		"xhtml"
+	],
+	"license": "Unlicense",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mattlucock/xmlns.git"
+	},
+	"bugs": {
+		"url": "https://github.com/mattlucock/xmlns/issues"
+	}
+}
