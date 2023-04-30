@@ -1,6 +1,6 @@
 {
 	"name": "xmlns",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "module",
 	"exports": {
 		"types": "./src/xmlns.d.ts",
@@ -12,12 +12,10 @@
 	"description": "Simple repository of XML namespaces",
 	"keywords": [
 		"xml",
-		"xmlns",
 		"namespace",
 		"ns",
 		"svg",
 		"mathml",
-		"ttml",
 		"xhtml"
 	],
 	"license": "Unlicense",
